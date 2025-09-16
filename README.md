@@ -1,4 +1,4 @@
-# A02-G08-StudyBuddy
+Study Buddy
 
 The Study Buddy quiz tool will provide students with practice for tests and examinations in multiple
 subject areas with flashcard like questions. Users will be able to create and modify flashcards 
